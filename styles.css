@@ -1,0 +1,52 @@
+
+:root{
+    --navig: #000000;
+    --first: #2f303a;
+    --biznes:rgba(255, 255, 255, 1);
+    --logo: #000000;
+    --web:#2196F3;
+    --but1: #ffffff;
+    --pp:#757575;
+    --Team:#F5F4FA;
+    --footerbec:#2F303A;
+    
+}
+.navig {
+    font-family: Roboto;
+    color: var(--navig);
+}
+.first {
+    font-family: Roboto;
+    background-color:var(--first)
+}
+.biznes{
+    font-family: Roboto;
+    color: var(--biznes)
+}
+.logo {
+    font-family:Raleway ;
+    color:var(--logo)
+}
+.web{
+    font-family: Roboto;
+    color:var(--web)
+}
+
+.but1{
+    font-family: Roboto;
+    background-color:var(--web);
+    color: var(--but1);
+}
+.pp{
+    font-family: Roboto;
+    color:var(--pp)
+}
+.TEAM{
+    font-family: Roboto;
+    background-color:var(--Team);
+}
+footer{
+    font-family: Roboto;
+    background-color:var(--footerbec);
+    color:var(--but1);
+}
